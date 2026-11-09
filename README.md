@@ -6,3 +6,9 @@ Disposable fixture for developer-mediated delivery validation
 ```sh
 echo delivery-fixture
 ```
+
+Output:
+
+```text
+delivery-fixture
+```
